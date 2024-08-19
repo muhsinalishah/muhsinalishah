@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 
 ### About Me :
 I am a `Front-End Developer / `Bioinformatician` <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> based in Pakistan.
-- :telescope: I’m working as a Data Scientist (Bioinformatician at University of Kiel, Germany).
+- :telescope: I’m working as a FreeLancer).
 
 - :seedling: Exploring Technical Content Writing, teachin Data Science, Machine Learning, Deep Learning, AI and much more on my youtube channel in Urdu/Hindi.
 
